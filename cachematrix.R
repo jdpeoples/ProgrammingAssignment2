@@ -1,6 +1,6 @@
 ##R Programming
 ##Assignment 2
-##Jeff P.
+##Jeff P
 ##6/21/14
 
 ## Functions demonstrate lexical closures.  The matrix object created by makeCacheMatrix
